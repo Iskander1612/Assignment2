@@ -24,4 +24,6 @@ public interface MyList<T> extends Iterable<T> {
         Object[] toArray();
         void clear();
         int size();
+
+
     }
